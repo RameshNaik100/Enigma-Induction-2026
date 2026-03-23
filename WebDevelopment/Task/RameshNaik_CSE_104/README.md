@@ -1,28 +1,18 @@
-# 🌟 Enigma VSSUT Website
+# Enigma VSSUT Website - Ramesh Naik
 
-Official website of **Enigma VSSUT**, the student tech club of Veer Surendra Sai University of Technology.  
-The website showcases **team members, projects, events, and blogs** of the club.
+Official website of the Enigma VSSUT student tech club, showcasing team members, projects, events, and blogs.
 
----
+## Pages
+Home | Blogs | Events | Projects | Team
 
-## 🚀 Pages / Navigation
+## Files
+- HTML: index.html, blogs.html, events.html, projects.html, team.html  
+- CSS: style2.css  
+- JS: script.js  
+- Assets: enigma_contained.png  
 
-Click to visit the pages in order:
+## Live Project
+[View Live Website](https://vercel.com/rameshnaik100s-projects/enigma-rameshnaik-induction-2026)
 
-- [Home](enigma2.html) – Main page of the website  
-- [Blogs](blogs.html) – Articles and blog posts  
-- [Events](events.html) – Details about club events and workshops  
-- [Projects](projects.html) – Highlights of student projects  
-- [Team](team.html) – Information about team members  
-
----
-
-## 📁 Files / Folder Structure
-enigma2.html # Main page
-blogs.html # Blog section
-events.html # Events page
-projects.html # Projects page
-team.html # Team information
-style2.css # CSS styles
-script.js # JavaScript code
-enigma_contained.png # Logo/image
+## Author
+Ramesh Naik | CSE | Regd No: 104
